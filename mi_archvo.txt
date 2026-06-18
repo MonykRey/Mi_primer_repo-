@@ -1,2 +1,2 @@
-Hol, esta es una segunda prueba para ver como funciona el control de versiones de GitHub
-
+Hola, esta es una segunda prueba para ver como funciona el control de versiones de GitHub
+Esta es una segunda prueba, por que queremos agregar todos los archivos
