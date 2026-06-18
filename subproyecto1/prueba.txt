@@ -1,1 +1,2 @@
 hola, esta es una prueba para mi primer repo de GitHub
+hola, voy a añadir una segunda linea por que queremos ver las diferencias
